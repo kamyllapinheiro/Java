@@ -32,5 +32,6 @@ public class Main {
         System.out.printf("Ano de nascimento: %d \n", anoNascimento);
         System.out.printf("Temperatura: %dºC \n", temperatura);
         System.out.printf("Nota: %.2f \n", nota);
+
     }
 }
