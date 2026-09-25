@@ -1,7 +1,7 @@
-package org.example;
+package org.example.aula2;
 
 public class Aritmeticos {
-    static void main() {
+    public static void main(String[] args) {
 
 
 //    //Aritméticos 0 - 0- Rode esse código e explique em um comentário por que deram resultados diferentes.

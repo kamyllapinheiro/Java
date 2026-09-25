@@ -1,4 +1,4 @@
-package org.example;
+package org.example.aula3;
 
 public class OperadoresRelacionais {
     public static void main(String[] args) {
