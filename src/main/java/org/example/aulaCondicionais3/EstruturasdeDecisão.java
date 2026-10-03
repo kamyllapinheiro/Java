@@ -1,4 +1,4 @@
-package org.example.aula3;
+package org.example.aulaCondicionais3;
 
 public class EstruturasdeDecisão {
     public static void main(String[] args) {

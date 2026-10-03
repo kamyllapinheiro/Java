@@ -1,4 +1,4 @@
-package org.example.aula2;
+package org.example.aulaConcatenaçãoOperadores2;
 
 public class Desafio {
     public static void main(String[] args) {

@@ -19,7 +19,7 @@ public static void main(String[] args) {
 
 
 
-    //Concatenação 2 - Crie variáveis para o nome de um produto ("Caneca"), o preço (12.50) e a quantidade (4). Mostre: "Comprei 4 unidades de Caneca por R$ 12.5 cada. Total: R$ 50.0"
+    //Concatenação 2 - Crie variáveis para o nome de um Produto ("Caneca"), o preço (12.50) e a quantidade (4). Mostre: "Comprei 4 unidades de Caneca por R$ 12.5 cada. Total: R$ 50.0"
     String produto = "Garrafa";
     double preco = 29.90;
     int quantidade = 2;
