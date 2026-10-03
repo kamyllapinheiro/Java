@@ -1,4 +1,4 @@
-package org.example.aula1;
+package org.example.aulaVariaveis1;
 
 /**
  *Crie variáveis para receber os seguintes dados:
