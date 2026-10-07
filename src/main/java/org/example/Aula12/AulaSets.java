@@ -1,0 +1,26 @@
+
+package org.example.Aula12;
+
+import java.util.HashSet;
+
+public class AulaSets {
+    static void main(String[] args) {
+        /*
+        .add("Ana");
+        .contains("Ana");
+        .remove("Ana");
+        .size();
+        .isEmpty();
+        .clear();
+        new HashSet<>(lista);
+        .addAll(List.of("Ana", "Bia", "Carla"));
+        */
+
+        HashSet<String> set = new HashSet<>();
+
+
+
+
+
+    }
+}
