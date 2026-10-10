@@ -12,7 +12,7 @@ public class AulaSets {
         .size();
         .isEmpty();
         .clear();
-        new HashSet<>(lista);
+        new ExercicioHashSet<>(lista);
         .addAll(List.of("Ana", "Bia", "Carla"));
         */
 

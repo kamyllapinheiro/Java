@@ -2,7 +2,7 @@
 
 Na classe principal, faça um laço for que repita 3 vezes.
 
-A cada repetição, o programa deve usar o Scanner para perguntar o nome e o preço de um Produto.
+A cada repetição, o programa deve usar o AtividadeScanner para perguntar o nome e o preço de um Produto.
 
 Instancie um novo Produto e guarde nele os valores digitados.
 
@@ -11,14 +11,14 @@ Logo em seguida, faça um if: se o preço do Produto for maior que 100, imprima 
  */
 //
 //
-//package org.example.aulaScanner5;
+package org.example.aulaScanner5;
+
+import java.util.Scanner;
+
+public class questão5 {
+    public static void main(String[] args) {
 //
-//import java.util.Scanner;
-//
-//public class questão5 {
-//    public static void main(String[] args) {
-//
-//        Scanner sc = new Scanner(System.in);
+//        AtividadeScanner sc = new AtividadeScanner(System.in);
 //        String descricao = "";
 //
 //
@@ -39,5 +39,5 @@ Logo em seguida, faça um if: se o preço do Produto for maior que 100, imprima 
 //
 //
 //        }
-//    }
-//}
+    }
+}

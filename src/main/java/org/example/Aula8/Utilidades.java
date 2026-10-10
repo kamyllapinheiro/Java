@@ -12,7 +12,7 @@ public class Utilidades {
         return numero * 2;
     }
 
-    //4 — Crie um método calcularMedia(double n1, double n2) que devolve a média das duas notas. No main, peça as duas notas com Scanner e mostre a média com duas casas decimais.
+    //4 — Crie um método calcularMedia(double n1, double n2) que devolve a média das duas notas. No main, peça as duas notas com AtividadeScanner e mostre a média com duas casas decimais.
     static double calcularMedia(double n1, double n2) {
         return (n1 + n2) / 2;
     }

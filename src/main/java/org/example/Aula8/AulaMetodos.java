@@ -21,7 +21,7 @@ public class AulaMetodos {
 //        //3 — Crie um método dobro(int numero) que devolve o dobro do número recebido. No main, chame ele e mostre o resultado.
 //        System.out.println(dobro(10));
 
-            //4 — Crie um método calcularMedia(double n1, double n2) que devolve a média das duas notas. No main, peça as duas notas com Scanner e mostre a média com duas casas decimais.
+            //4 — Crie um método calcularMedia(double n1, double n2) que devolve a média das duas notas. No main, peça as duas notas com AtividadeScanner e mostre a média com duas casas decimais.
 
 
             Scanner sc = new Scanner(System.in);
