@@ -12,6 +12,7 @@ public class Questao5 {
 
         for (int i =0;i <nomesSeis.size(); i++){
             System.out.println(i + ":" + nomesSeis.get(i));
+
         }
     }
 }

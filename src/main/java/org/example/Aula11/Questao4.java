@@ -13,5 +13,6 @@ public class Questao4 {
         nomeCidade.remove(1);
         System.out.println(nomeCidade);
         System.out.println(nomeCidade.size());
+
     }
 }

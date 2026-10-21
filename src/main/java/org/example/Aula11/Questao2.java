@@ -11,5 +11,6 @@ public class Questao2 {
         System.out.println(listaFruta.get(0));
         System.out.println(listaFruta.get(3));
         System.out.println(listaFruta.size());
+
     }
 }

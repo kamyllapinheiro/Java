@@ -19,17 +19,17 @@ public class AulaHashMap {
         putAll(Map.of())
         */
 
-//        HashMap<String, String> emails = new HashMap<>();
-//        emails.put("Ane", "ane@hmail.com");
-//
-//        System.out.println(emails.get("Ane"));
-//
-//        System.out.println(emails.getOrDefault("Ane","Posição inválida"));
-//
-//        System.out.println(emails.containsKey("Ane"));
+        HashMap<String, String> emails = new HashMap<>();
+        emails.put("Ane", "ane@hmail.com");
+
+        System.out.println(emails.get("Ane"));
+
+        System.out.println(emails.getOrDefault("Ane","Posição inválida"));
+
+        System.out.println(emails.containsKey("Ane"));
 
 
-//        HashMap<String, String> emails = new HashMap<>();
+        HashMap<String, String> emails = new HashMap<>();
         ArrayList<String> lista = new ArrayList<>();
         HashMap<String, ArrayList> email = new HashMap<>();
         email.put("Flora", lista);

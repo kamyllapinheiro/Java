@@ -48,6 +48,5 @@ public class AulaArrayList {
         System.out.println(lista.isEmpty());
 
 
-
     }
 }

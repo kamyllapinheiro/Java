@@ -13,6 +13,5 @@ public class Questao3 {
 
         listaNome2.set(1, "Ferraz");
         System.out.println(listaNome2);
-
     }
 }

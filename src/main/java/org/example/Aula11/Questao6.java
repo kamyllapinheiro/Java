@@ -16,6 +16,7 @@ public class Questao6 {
             System.out.println(nome1 + " está na posição: " + nomeCinco.indexOf(nome1));
         }else {
             System.out.println("O nome não existe na lista!");
+
         }
 
 

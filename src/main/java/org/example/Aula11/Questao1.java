@@ -12,5 +12,6 @@ public class Questao1 {
         ArrayList<String> listaNome = new ArrayList<>();
         listaNome.addAll(List.of("Kamy, Ana, Leandro"));
         System.out.println(listaNome);
+
     }
 }
