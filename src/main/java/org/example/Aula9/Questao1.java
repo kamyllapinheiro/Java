@@ -8,19 +8,20 @@ import java.util.Scanner;
 public class Questao1 {
     static void main(String[] args) {
 
-//        Scanner sc = new Scanner(System.in);
-//
-//        try {
-//            System.out.println("Digite um número: ");
-//            int numero1 = sc.nextInt();
-//            System.out.println("Digite outro número: ");
-//            int numero2 = sc.nextInt();
-//            System.out.println(numero1 / numero2);
-//
-//        } catch (ArithmeticException e){
-//            System.out.println("Não pode dividir por 0");
-//            System.out.println(e);
-//        } finally {
-//        }
+        Scanner sc = new Scanner(System.in);
+
+        try {
+            System.out.println("Digite um número: ");
+            int numero1 = sc.nextInt();
+            System.out.println("Digite outro número: ");
+            int numero2 = sc.nextInt();
+            System.out.println(numero1 / numero2);
+
+        } catch (ArithmeticException e){
+            System.out.println("Não pode dividir por 0");
+            System.out.println(e);
+        } finally {
+        }
+
     }
 }

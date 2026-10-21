@@ -18,5 +18,6 @@ public class Questao2 {
         }  catch (ArrayIndexOutOfBoundsException aioobe) {
             System.out.println("O Array vai somente de 0 a 4.");
         }
+
     }
 }
