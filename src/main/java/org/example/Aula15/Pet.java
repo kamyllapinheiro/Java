@@ -18,4 +18,8 @@ public class Pet {
         }
     }
 
+    void emitirSom() {
+        System.out.println(nome + " faz: (som de pet)");
+    }
+
 }
