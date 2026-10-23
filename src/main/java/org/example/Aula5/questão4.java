@@ -2,7 +2,7 @@
 
 Dê a ela três atributos: nome (String), raca (String) e peso (double).
 
-Em outra classe, instancie (crie) dois objetos diferentes dessa classe (por exemplo, um cachorro e um gato).
+Em outra classe, instancie (crie) dois objetos diferentes dessa classe (por exemplo, um cachorro e um GatoFactor).
 
 Atribua valores para os atributos de cada um deles.
 
@@ -23,7 +23,7 @@ public class questão4 {
         pet.peso = 10;
         System.out.println(" O nome do meu " + pet.tipo +  " é " + pet.nome + ". A raça dela é " + pet.raca + ", e ele pesa " + pet.peso + " kilos. ");
 
-        pet.tipo = "Gato";
+        pet.tipo = "GatoFactor";
         pet.nome = "Bob";
         pet.raca = "Vira lata";
         pet.peso = 5;
