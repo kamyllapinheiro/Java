@@ -1,4 +1,4 @@
-package org.example.Aula20.Decorator;
+package org.example.Aula20.Decorator.ExemploDecorator;
 
 abstract class CafeDecorator implements Cafe {
     protected  Cafe cafeEmbrulhado;

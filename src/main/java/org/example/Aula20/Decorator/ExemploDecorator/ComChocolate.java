@@ -1,8 +1,9 @@
-package org.example.Aula20.Decorator;
+package org.example.Aula20.Decorator.ExemploDecorator;
 
 public class ComChocolate extends CafeDecorator {
 
     public ComChocolate(Cafe cafe) {
+
         super(cafe);
     }
 
